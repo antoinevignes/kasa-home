@@ -13,7 +13,7 @@ export default function Page404() {
         <p>Oups ! La page que vous demandez n'existe pas...</p>
 
         <Link className="underline mt-5" to={"/"}>
-          Retourner à l'accueil
+          Retourner à l'accueil.
         </Link>
       </div>
 
